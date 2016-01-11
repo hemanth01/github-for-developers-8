@@ -5,5 +5,3 @@
 ## the information about you from Issue #3
 
 ## a request to add your bio
-
-## add your favourite color
