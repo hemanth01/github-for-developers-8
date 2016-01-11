@@ -1,0 +1,15 @@
+Enter file contents here
+
+this is a test case 1
+
+Add a new client through the config web app by providing valid inputs across all the fields.
+ 
+Input data:
+Client Name: Unique name with <= 20 chars
+Client Code: Unique name with >= 1 char
+Administrators = Multiple selection
+PID = 7 chars
+Farm location = Valid one from the listbox
+ 
+Expected:
+User must be able to add a new client.
